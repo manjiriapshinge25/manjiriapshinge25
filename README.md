@@ -8,7 +8,7 @@ My interests include **Machine Learning, Deep Learning, Generative AI, NLP, Grap
 
 I'm continuously learning, experimenting with new technologies, and building projects that combine analytical thinking with practical implementation.
 
-- 🎓 Pursuing M.Sc. Data Science at NMIMS (2024–2027)
+- 🎓 Pursuing M.Sc. Data Science at NMIMS (2025–2027)
 - 🤖 Interested in AI/ML, Data Science, and Generative AI opportunities
 - 🔍 Exploring explainable machine learning, graph-based learning, and LLM applications
 - 📊 Interested in turning data into meaningful insights and decisions
