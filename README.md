@@ -1,19 +1,13 @@
 # Hi, I'm Manjiri Apshinge 👋
 
-### M.Sc. Data Science Student | AI/ML | Generative AI | Data Science
+### M.Sc. Data Science Student | AI/ML | Generative AI | Explainable AI
 
-I'm a Data Science postgraduate student at **NMIMS**, passionate about building practical machine learning and AI solutions that solve real-world problems.
+I'm a Data Science postgraduate student at **NMIMS Mumbai**, building practical machine learning and AI solutions: RAG systems, graph neural networks, explainable ML and analytics dashboards. Former **Gen AI intern at WNS Global Services**.
 
-My interests include **Machine Learning, Deep Learning, Generative AI, NLP, Graph Neural Networks, Explainable AI, and Retrieval-Augmented Generation (RAG)**.
-
-I'm continuously learning, experimenting with new technologies, and building projects that combine analytical thinking with practical implementation.
-
-- 🎓 Pursuing M.Sc. Data Science at NMIMS (2025–2027)
-- 🤖 Interested in AI/ML, Data Science, and Generative AI opportunities
-- 🔍 Exploring explainable machine learning, graph-based learning, and LLM applications
-- 📊 Interested in turning data into meaningful insights and decisions
-- 🌱 Currently strengthening my skills through hands-on projects
-- 🎯 Open to relevant internships and early-career opportunities
+- 🎓 M.Sc. Data Science, NMIMS Mumbai (2025–2027) | B.Sc. Computer Science (AI & ML), University of Mumbai (2021–2024)
+- 🤖 Focus: Generative AI, RAG, NLP, Graph Neural Networks, Explainable AI, Predictive Modelling
+- 📊 Turning data into insights and decisions through clear, deployable prototypes
+- 🎯 Open to early-career roles in Data Science, AI/ML and Generative AI
 
 ---
 
@@ -21,73 +15,76 @@ I'm continuously learning, experimenting with new technologies, and building pro
 
 **Programming:** Python, SQL
 
-**Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, Statistical Analysis, Feature Engineering, Model Evaluation
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, Statistical Modelling, Feature Engineering, Predictive Modelling, Model Evaluation, Random Forest, XGBoost, ARIMA
 
-**Deep Learning & AI:** PyTorch, Graph Neural Networks, Explainable AI, SHAP
+**Deep Learning & Explainable AI:** PyTorch, PyTorch Geometric, Graph Neural Networks (GCN, GAT), SHAP
 
-**Generative AI & NLP:** Large Language Models, Retrieval-Augmented Generation (RAG), Transformers, Hugging Face, FAISS
+**Generative AI & NLP:** LLMs, RAG, Prompt Engineering, LangChain, Hugging Face, Transformers, FAISS, LaBSE, NLTK, spaCy; working knowledge of agentic AI workflows (LangGraph, AutoGen)
 
-**Data Visualization:** Power BI, Tableau, Matplotlib
+**Cloud & MLOps:** AWS and MLOps (hands-on through MSc coursework), Oracle Cloud Infrastructure (certified)
 
-**Tools & Platforms:** Git, GitHub, Jupyter Notebook, Streamlit, Neo4j
+**Data Visualization:** Power BI, Tableau, Matplotlib, Streamlit
+
+**Tools:** Git, GitHub, Jupyter Notebook, Neo4j, NetworkX, Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Explainable Financial Fraud Detection using Graph Neural Networks
+### 1. Grounded Multimodal RAG for Hinglish Clinical Support
+LLM-based RAG system for Hinglish clinical queries, with a FAISS vector retrieval pipeline built on transformer embeddings to improve grounding, factual accuracy and hallucination resistance.
 
-Developing a fraud detection pipeline that models financial transactions as a graph and explores graph-based learning alongside traditional machine learning.
+**Tech stack:** Python, LLMs, RAG, FAISS, LaBSE, Transformers
+🔗 [hinglish-grounded-medical-rag](https://github.com/manjiriapshinge25/hinglish-grounded-medical-rag)
 
-- Models explored: Random Forest, Graph Convolutional Network (GCN), and Graph Attention Network (GAT)
-- Explainability using SHAP
-- Streamlit dashboard for fraud-risk visualization and investigation
+### 2. Explainable Financial Fraud Detection using Graph Neural Networks
+Models financial transactions as a graph and detects suspicious patterns using GCN and GAT, benchmarked against a Random Forest baseline. SHAP explains predictions, and a Streamlit dashboard supports risk visualization and investigation.
 
-**Tech stack:** Python, Scikit-learn, PyTorch Geometric, SHAP, NetworkX, Streamlit
+**Tech stack:** Python, PyTorch Geometric, NetworkX, Scikit-learn, SHAP, Streamlit
+**Results:** [add key metrics, e.g. F1 / AUC]
+🔗 [explainable-financial-fraud-detection](https://github.com/manjiriapshinge25/explainable-financial-fraud-detection)
 
-🔗 [View Project Repository](https://github.com/manjiriapshinge25/explainable-financial-fraud-detection)
+### 3. MedPredict: Uncertainty-Aware Clinical Decision Support System
+Risk prediction models for liver disease and diabetes using Random Forest and XGBoost (SMOTE, feature scaling, rigorous evaluation), with an interactive dashboard showing real-time predictions and uncertainty indicators for non-technical users.
 
-### 2. VerifAI — Multimodal Misinformation Detection
+**Tech stack:** Python, Scikit-learn, XGBoost, Streamlit
+**Results:** [add key metrics, e.g. accuracy / recall]
+🔗 [medpredict](https://github.com/manjiriapshinge25/medpredict)
 
-Exploring AI techniques for identifying potentially misleading information using multimodal data and machine learning.
+### 4. AI-Driven Pair Trading & Financial Analytics Dashboard
+Cointegration testing, Z-score analysis and ARIMA forecasting on financial time series to generate data-driven signals, with a Streamlit dashboard for risk monitoring and volatility analysis.
+
+**Tech stack:** Python, Statsmodels, Pandas, Streamlit
+🔗 [add repository link]
+
+### 5. VerifAI: Multimodal Misinformation Detection
+Exploring multimodal machine learning techniques for identifying potentially misleading information.
 
 **Tech stack:** Python, Machine Learning, Deep Learning, Multimodal AI
+🔗 [VerifAI](https://github.com/manjiriapshinge25/VerifAI)
 
-🔗 [View VerifAI Repository](https://github.com/manjiriapshinge25/VerifAI)
+---
 
-### 3. Grounded Medical RAG for Hinglish Queries
+## 💼 Experience
 
-Researching a retrieval-grounded medical question-answering pipeline designed to handle Hinglish queries and improve the factual grounding of generated responses.
-
-**Tech stack:** Python, NLP, LaBSE, FAISS, LLMs, RAG
-
-🔗 [View hinglish-grounded-medical-rag Repository](https://github.com/manjiriapshinge25/hinglish-grounded-medical-rag)
-### 4. Data Analytics & Predictive Modeling
-
-Working on data analysis, statistical modeling, predictive analytics, and visualization projects to strengthen my practical Data Science skills.
-
-**Tech stack:** Python, SQL, Pandas, Scikit-learn, Power BI, Tableau
-
-
+**Gen AI Intern, WNS Global Services** (Jan 2024 – Mar 2024)
+Built GPT-4, Hugging Face and LangChain solutions with RAG pipelines for context-aware analytics, and handled NLP preprocessing (NLTK, spaCy) and object detection on 2,000+ images.
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning and Deep Learning
-- Graph Neural Networks and Explainable AI
-- Retrieval-Augmented Generation and LLM applications
-- Model evaluation, deployment, and reproducible ML workflows
-- Data structures, algorithms, and interview problem-solving
+- Agentic AI workflows (LangGraph, AutoGen) and LLM applications
+- Model deployment, monitoring and reproducible ML workflows (MLOps)
+- Advanced Deep Learning, Graph Neural Networks and Explainable AI
+- Data structures and algorithms
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with people working in Data Science, Artificial Intelligence, Machine Learning, and Generative AI.
-
-- 💼 LinkedIn: [www.linkedin.com/in/manjiriapshinge]
-- 📧 Email: [manjiriapshinge25@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/manjiriapshinge](https://www.linkedin.com/in/manjiriapshinge)
+- 📧 Email: manjiriapshinge25@gmail.com
 - 💻 GitHub: [@manjiriapshinge25](https://github.com/manjiriapshinge25)
 
 ---
