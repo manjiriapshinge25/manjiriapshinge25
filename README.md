@@ -55,7 +55,7 @@ Risk prediction models for liver disease and diabetes using Random Forest and XG
 Cointegration testing, Z-score analysis and ARIMA forecasting on financial time series to generate data-driven signals, with a Streamlit dashboard for risk monitoring and volatility analysis.
 
 **Tech stack:** Python, Statsmodels, Pandas, Streamlit
-🔗 [add repository link]
+🔗 [AI-Driven Pair Trading & Financial Analytics Dashboard](https://github.com/manjiriapshinge25/statistical-arbitrage-pair-trading)]
 
 ### 5. VerifAI: Multimodal Misinformation Detection
 Exploring multimodal machine learning techniques for identifying potentially misleading information.
